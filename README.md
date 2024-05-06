@@ -1,2 +1,4 @@
-# SolarAMPs
-Pushing this code in Repo because want to save the code for Company
+# Solar Amps
+
+A Solar Informatics project.
+

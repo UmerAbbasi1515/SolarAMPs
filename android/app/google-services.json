@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744282316975",
+    "project_id": "solaramp-s",
+    "storage_bucket": "solaramp-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744282316975:android:506ab3a4f70cc7010b345a",
+        "android_client_info": {
+          "package_name": "com.solarinformatics.solaramps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744282316975-bddgeuc668f1748lt53cm5llb7mu8gqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATMhpuLYqKGZlorOu5KxOyha6D__5TMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744282316975-bddgeuc668f1748lt53cm5llb7mu8gqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
