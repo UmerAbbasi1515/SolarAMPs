@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.261" height="41.261" viewBox="0 0 40.261 41.261">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.067" y1="0.742" x2="0.857" y2="0.178" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdb91"/>
+      <stop offset="1" stop-color="#ffbd61"/>
+    </linearGradient>
+  </defs>
+  <g id="Sun" transform="translate(-259.864 -184)">
+    <circle id="Sun-2" data-name="Sun" cx="12" cy="12" r="12" transform="translate(268 193)" fill="url(#linear-gradient)"/>
+    <path id="Path_218" data-name="Path 218" d="M311.773,5.261a.82.82,0,0,1-.82-.82V.82a.82.82,0,0,1,1.639,0V4.441A.82.82,0,0,1,311.773,5.261Z" transform="translate(-32.385 184)" fill="#ffbd61"/>
+    <path id="Path_223" data-name="Path 223" d="M311.773,5.261a.82.82,0,0,1-.82-.82V.82a.82.82,0,0,1,1.639,0V4.441A.82.82,0,0,1,311.773,5.261Z" transform="translate(-32.385 220)" fill="#ffbd61"/>
+    <path id="Path_219" data-name="Path 219" d="M185.475,57.576a.818.818,0,0,1-.58-.24l-2.561-2.561a.82.82,0,0,1,1.159-1.159l2.561,2.561a.82.82,0,0,1-.58,1.4Z" transform="translate(82.391 136.458)" fill="#ffbd61"/>
+    <path id="Path_222" data-name="Path 222" d="M419.763,291.864a.818.818,0,0,1-.58-.24l-2.561-2.561a.82.82,0,1,1,1.159-1.159l2.561,2.561a.82.82,0,0,1-.58,1.4Z" transform="translate(-126.292 -72.224)" fill="#ffbd61"/>
+    <path id="Path_221" data-name="Path 221" d="M464.494,183.872h-3.621a.82.82,0,0,1,0-1.639h3.621a.82.82,0,1,1,0,1.639Z" transform="translate(-165.189 21.684)" fill="#ffbd61"/>
+    <path id="Path_224" data-name="Path 224" d="M464.494,183.872h-3.621a.82.82,0,0,1,0-1.639h3.621a.82.82,0,1,1,0,1.639Z" transform="translate(-200.189 21.684)" fill="#ffbd61"/>
+    <path id="Path_220" data-name="Path 220" d="M417.2,57.576a.82.82,0,0,1-.58-1.4l2.561-2.561a.82.82,0,0,1,1.159,1.159l-2.561,2.561A.818.818,0,0,1,417.2,57.576Z" transform="translate(-126.291 136.458)" fill="#ffbd61"/>
+    <path id="Path_225" data-name="Path 225" d="M417.2,57.576a.82.82,0,0,1-.58-1.4l2.561-2.561a.82.82,0,0,1,1.159,1.159l-2.561,2.561A.818.818,0,0,1,417.2,57.576Z" transform="translate(-152.291 162.458)" fill="#ffbd61"/>
+  </g>
+</svg>

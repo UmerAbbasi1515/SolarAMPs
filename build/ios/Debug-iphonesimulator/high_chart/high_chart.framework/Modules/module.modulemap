@@ -1,0 +1,11 @@
+framework module high_chart {
+  umbrella header "high_chart-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module high_chart.Swift {
+  header "high_chart-Swift.h"
+  requires objc
+}
